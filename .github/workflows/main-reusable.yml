@@ -9,4 +9,4 @@ on:
 
 jobs:
   build-and-test:
-    uses: RahulRawatdevops/workflow/.github/workflows/reusable-workflow.yml@main
+    uses: RahulRawatdevops/workflow/.github/workflows/workflow.yml@main
